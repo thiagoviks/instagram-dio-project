@@ -1,6 +1,6 @@
 # Interface de login do Instagram
 
-Esse é um projeto utilizando Flexbox na práticaao implementar a interface de login do Instagram!
+Esse é um projeto utilizando Flexbox na prática ao implementar a interface de login do Instagram!
 
 ### Referências:
 
